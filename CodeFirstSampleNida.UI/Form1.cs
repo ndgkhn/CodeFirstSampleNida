@@ -15,6 +15,7 @@ namespace CodeFirstSampleNida.UI
         public Form1()
         {
             InitializeComponent();
+            //adil
         }
     }
 }
