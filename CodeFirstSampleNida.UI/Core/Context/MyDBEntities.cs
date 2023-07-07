@@ -13,7 +13,7 @@ namespace CodeFirstSampleNida.UI.Core.Context
     {
         public MyDBEntities() : base("data source=.;initial catalog=VarlıkDB;integrated security=true;")
         {
-
+            //vscode.dev
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
