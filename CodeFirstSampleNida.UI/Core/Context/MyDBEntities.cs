@@ -72,7 +72,7 @@ namespace CodeFirstSampleNida.UI.Core.Context
                 .HasKey(a => new { a.EmployeeID, a.CustomerID });
 
                 
-
+            //denmeee
           
         }
 
