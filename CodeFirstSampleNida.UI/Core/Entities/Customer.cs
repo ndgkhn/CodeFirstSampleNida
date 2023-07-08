@@ -17,6 +17,7 @@ namespace CodeFirstSampleNida.UI.Core.Entities
 
         
         public string Phone { get; set; }
+        //adiladil vscode.dev uzerindem
 
   
         public int Aktifmi { get; set; }
